@@ -1,0 +1,26 @@
+/* Set a style for button */
+button{
+    background-color:rgb(8, 23, 161);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 24%;
+  }
+  div{
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  button:hover{
+      opacity: 0.8;
+  }
+  input, label{
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  input{
+      margin-left: 10px;
+  }
+  h1{
+      font-family: monospace;
+  }
